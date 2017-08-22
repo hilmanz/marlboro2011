@@ -1,0 +1,10 @@
+Date,Activity,User,Web Service,Command,Response ,SessionID
+"16-09-2011 13:17:08"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=2212620",CheckReferral,1,2212620
+"16-09-2011 13:17:10"," - GetProfile",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/GetProfile2?sessionID=2212620",GetProfile,1,2212620
+"16-09-2011 13:17:12","WEB083 - login-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212620
+"16-09-2011 13:17:22","WEB096 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212620
+"16-09-2011 13:19:39","WEB096 - about-marlboro-connections-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212978
+"16-09-2011 13:20:05","WEB096 - prizes-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212978
+"16-09-2011 13:20:19","WEB096 - prizes-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212978
+"16-09-2011 13:20:58","WEB096 - about-marlboro-connections-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212978
+"16-09-2011 13:21:02","WEB096 - prizes-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2212978

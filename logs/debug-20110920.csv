@@ -1,0 +1,12 @@
+Date,Activity,User,Web Service,Command,Response ,SessionID
+"20-09-2011 09:50:48"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=2271153",CheckReferral,1,2271153
+"20-09-2011 09:50:50"," - GetProfile",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/GetProfile2?sessionID=2271153",GetProfile,1,2271153
+"20-09-2011 09:50:52","WEB083 - login-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2271153
+"20-09-2011 09:50:58","WEB096 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2271153
+"20-09-2011 09:53:01","WEB096 - news-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2271332
+"20-09-2011 09:54:00","WEB096 - news-trade",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2271332
+"20-09-2011 09:54:44","WEB114 - REDEEM BADGES-TRADE",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2271332
+"20-09-2011 09:58:47","WEB113 - REDEEM BADGES-traderequestmatch",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2271511
+"20-09-2011 10:09:54"," - CheckReferral",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=2271511",CheckReferral,99,0
+"20-09-2011 13:04:54"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=",CheckReferral,,
+"20-09-2011 13:14:48"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=-1",CheckReferral,2,0

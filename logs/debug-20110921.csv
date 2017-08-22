@@ -1,0 +1,17 @@
+Date,Activity,User,Web Service,Command,Response ,SessionID
+"21-09-2011 11:00:31"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=2288874",CheckReferral,99,0
+"21-09-2011 16:40:21"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=2303731",CheckReferral,1,2303731
+"21-09-2011 16:40:25"," - GetProfile",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/GetProfile2?sessionID=2303731",GetProfile,1,2303731
+"21-09-2011 16:40:28","WEB083 - login-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2303731
+"21-09-2011 16:41:07","WEB096 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2303731
+"21-09-2011 16:41:09","WEB096 - about-marlboro-connections-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2303731
+"21-09-2011 16:41:15","WEB096 - terms-and-condition-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2303731
+"21-09-2011 16:41:24","WEB096 - terms-and-condition-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2303731
+"21-09-2011 16:41:47","WEB096 - REDEEM BADGES-HOW TO PLAY",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2303731
+"21-09-2011 16:47:19"," - CheckReferral",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/CheckReferral?sessionID=2304089",CheckReferral,1,2304089
+"21-09-2011 16:47:21"," - GetProfile",,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/GetProfile2?sessionID=2304089",GetProfile,1,2304089
+"21-09-2011 16:47:24","WEB083 - login-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2304089
+"21-09-2011 16:47:39","WEB096 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2304089
+"21-09-2011 16:47:39","WEB096 - about-marlboro-connections-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2304089
+"21-09-2011 16:47:46","WEB096 - terms-and-condition-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2304089
+"21-09-2011 16:53:05","WEB096 - terms-and-condition-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,99,

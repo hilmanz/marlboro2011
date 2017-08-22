@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	{$meta}
+</head>
+
+<body>
+<img src="images/bg.png" alt="" id="bg" />
+<div id="maincontent"  class="typeface-js">
+	{$header}
+    <div id="content">
+    {$mainContent}
+    </div><!-- #content -->
+    
+    {include file='marlboro/popup-game.html'}
+    
+    
+	{$footer}
+</div><!-- #main-content -->
+{literal}
+<script type="text/javascript">
+
+	{/literal}
+	{$MOP_EMBED}
+	{literal}
+</script>
+{/literal}
+</body>
+</html>

@@ -1,0 +1,10 @@
+Date,Activity,User,Web Service,Command,Response ,SessionID
+"14-09-2011 16:50:26","PH01 - Login-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2167154
+"14-09-2011 16:50:36","PH01 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2167154
+"14-09-2011 16:50:39","PH01 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2167154
+"14-09-2011 16:50:47","PH01 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2167154
+"14-09-2011 16:51:21","PH01 - about-marlboro-connections-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2167154
+"14-09-2011 16:51:24","PH01 - about-marlboro-connections-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2167154
+"14-09-2011 17:47:08","PH01 - Login-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2169839
+"14-09-2011 17:49:34","PH01 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2170018
+"14-09-2011 17:49:54","PH01 - home-home",verashiska2@gmail.com,"https://staging-marlboro-id.es-dm.com/dm.mopid.webservice/centralwebservice.asmx/SendAction2",SendAction2,1,2170018

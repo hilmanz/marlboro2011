@@ -1,0 +1,94 @@
+
+<div id="sidebar">
+        <div id="side-menu">
+            <div class="nav-about">
+              <h2><a href="index.php?page=about-marlboro-connections" class="about"><span>&nbsp;</span></a></h2>
+            </div>
+            <div class="nav-whats">
+              <h2><a href="index.php?page=news" class="whats"><span>&nbsp;</span></a></h2>
+            </div>
+            <div class="nav-code">
+              <h2><a href="index.php?page=code" class="code"><span>&nbsp;</span></a></h2>
+            </div>
+            <div class="nav-badge">
+                  <h2><a href="index.php?page=code&act=trade" class="badge"><span>&nbsp;</span></a></h2>
+            </div>
+            <div class="nav-reedem">
+                  <h2><a href="index.php?page=code&act=prize" class="reedem"><span>&nbsp;</span></a></h2>
+            </div>
+            <div class="nav-game-active">
+                 <h2><a href="#" class="game"><span>&nbsp;</span></a></h2>
+            </div>
+        </div>
+    </div><!-- #sidebar -->
+    <div id="content">
+    	<div id="game">
+    		<div class="content">
+    			<div class="gamehome">
+    				<div class="game-desc">
+    					<span style="font-size:70px; color:#00357c;">HUNT  THE  BADGES!</span>
+    					<p>
+    						<strong>Need more badges?</strong><br>
+							Finish each level on all Marlboro Connection games and get additional badges to add to your profile.</p>
+						<p>
+							Got the same badge? Go over to the trading section to hunt for more!
+						</p><p>
+							<strong>Good luck!</strong>
+    					</p>
+    				</div>
+    				<img class="map" src="images/game/map.png">
+    				<img class="route" src="images/game/route.png">
+    				
+    				<!-- Berlin -->
+    				<div class="popup-berlin">
+    				
+    					<!-- Berlin 1 -->
+    						<div class="thumb-b1">
+    							<a id="thumb-b1" class="play" href="#berlin1"></a>
+    						</div>
+    					
+    					<!-- Berlin 2 -->
+    						<div class="thumb-b2 hidden">
+    							<a class="play replay lock" href="#"></a>
+    						</div>
+    				</div>
+    				
+    				<!-- Newyork -->
+    				<img class="lock-newyork" src="images/game/lock_game_newyork.png">
+    				
+    				<!-- Istanbul -->
+    				<img class="lock-istanbul" src="images/game/lock_game_istanbul.png">
+    				
+    				
+    				<!-- My Rank -->
+    				<div class="myRank">0</div>
+    				
+    				<!-- Top 100 -->
+    				<img class="top100" src="images/game/btn_top100.png">
+    			
+				
+    			 
+    			</div>
+    		</div>
+    	</div>
+    	
+    </div><!-- #content -->
+
+
+  
+   			
+				<script>
+				{literal}
+						$("#thumb-b1").click(function(){
+							$("#bgGame").fadeIn("slow");
+							$("#berlin1").fadeIn("slow");
+						});
+						$(".btn-close").click(function(){
+							$("#bgGame").fadeOut("slow");
+							$("#berlin1").fadeOut("slow");
+						});
+				{/literal}
+				</script>
+	
+	
+	

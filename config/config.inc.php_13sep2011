@@ -1,0 +1,24 @@
+<?php
+include_once "locale.inc.php";
+$GLOBAL_PATH = "../";
+$APP_PATH = "../com/";
+$ENGINE_PATH = "../engines/";
+$WEBROOT = "../html/";
+
+//set aplikasi yang digunakan
+define('APPLICATION','marlboro');
+
+//set TRUE jika dalam local
+$local = false;
+
+if($local){
+	$CONFIG['DATABASE'][0]['HOST'] 				= "localhost";
+	$CONFIG['DATABASE'][0]['USERNAME'] 	= "root";
+	$CONFIG['DATABASE'][0]['PASSWORD'] 	= "root";
+	$CONFIG['DATABASE'][0]['DATABASE'] 	= "marlboro_1";
+}else{
+	$CONFIG['DATABASE'][0]['HOST'] 				= "202.80.113.52";
+	$CONFIG['DATABASE'][0]['USERNAME'] 	= "root";
+	$CONFIG['DATABASE'][0]['PASSWORD'] 	= "coppermine";
+	$CONFIG['DATABASE'][0]['DATABASE'] 	= "mrlbconnection";
+}

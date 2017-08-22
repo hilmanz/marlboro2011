@@ -1,0 +1,23 @@
+<div style="padding:10px;">
+<p><h2>Badge Redeem Request</h2></p>
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="addlist zebra">
+  <tr class="head">
+    <td><strong>Nama User</strong></td>
+	<td><strong>Prize</strong></td>
+	<td><strong>Tanggal</strong></td>
+	<td><strong>Status</strong></td>
+    <td><strong>Action</strong></td>
+  </tr>
+  {section name=i loop=$list}
+  <tr>
+    <td>{$list[i].Nama}</td>
+    <td>{$list[i].Prize}</td>
+    <td>{$list[i].Tanggal}</td>
+    <td>{if $list[i].Status==1}Approve{elseif $list[i].Status==2}Cancel{else} - {/if}</td>
+    <td>{if $list[i].Status==0}<a href="?s=code&act=edit-badgeRequest&id={$list[i].id}&regid={$list[i].regid}" class="addSubPage">Edit</a>{else}-{/if}</td>
+	</tr>
+  {/section}
+</table>
+<p>{$paging}</p>
+</div>
